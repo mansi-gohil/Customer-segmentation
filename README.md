@@ -1,7 +1,5 @@
 # Customer Segmentation | Customer Insights through Segmentation Analysis
 
-![Logo](https://github.com/mansi-gohil/Customer-segmentation/assets/86056584/50a47106-746e-480a-bf48-ec573571a4e3)
-
 Customer segmentation software helps businesses classify customer data by specific traits to learn more about the groups that make up their customer base. The more you understand your customers, the better you can serve them. From delivering more personalized customer service to creating more targeted marketing campaigns, segmentation software can be a powerful way to increase customer retention as well as draw in potential customers.
 
 Customer segmentation software is a tool that groups your customers based on certain similarities in their demographics, behavior, or any other characteristics. It can help companies better understand their clientele and its composition. Treating your audience as heterogeneous groups with different interests and needs lets you target marketing campaigns more precisely, increase conversion rate, and provide a more personalized customer experience.
